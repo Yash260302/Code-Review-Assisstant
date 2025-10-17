@@ -180,10 +180,10 @@ If you’d like to contribute:
 
 ## 👤 Author
 
-**Shreyash Bhor**
+**Yashasvi Verma**
 
-- [GitHub](https://github.com/Shreyash-Bhor)
-- [LinkedIn](https://www.linkedin.com/in/shreyash-bhor-751103333)
+- [GitHub](https://github.com/Yashasvi260302)
+- [LinkedIn](https://www.linkedin.com/in/yashasviverma02)
 
 ---
 
@@ -193,3 +193,4 @@ If you’d like to contribute:
 - \[MERN Stack Community]
 
 ---
+
